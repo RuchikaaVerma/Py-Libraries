@@ -1,0 +1,16 @@
+Multithreading a and multiprocessing 
+#Program-A sequence of instructions written in programming languages.
+example-C++,C,Python.
+
+#Process- An instance of a program that is being executed.
+{
+    code Segment
+    Data Segment
+    Heap
+    Stack
+    Registers
+}
+-Seperate memory space[One  processes not hault other process]
+-I/O Requirments
+
+#Thread- Aunit of execution within the process.

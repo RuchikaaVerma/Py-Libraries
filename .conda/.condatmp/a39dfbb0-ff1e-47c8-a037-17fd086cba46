@@ -1,0 +1,13 @@
+prefix=c:/Users/Ruchika Verma/OneDrive/Desktop/LLM Models/.conda/Library
+exec_prefix=c:/Users/Ruchika Verma/OneDrive/Desktop/LLM Models/.conda/Library
+libdir=c:/Users/Ruchika Verma/OneDrive/Desktop/LLM Models/.conda/Library/lib
+sharedlibdir=c:/Users/Ruchika Verma/OneDrive/Desktop/LLM Models/.conda/Library/lib
+includedir=c:/Users/Ruchika Verma/OneDrive/Desktop/LLM Models/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
